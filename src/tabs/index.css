@@ -1,0 +1,19 @@
+.list1 {
+  list-style-type: none;
+  margin-right: 40px;
+}
+
+.but {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.but1 {
+  color: #fec653;
+  text-decoration: underline;
+}

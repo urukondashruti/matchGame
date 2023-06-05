@@ -1,0 +1,16 @@
+.list3 {
+  list-style-type: none;
+  margin: 20px;
+}
+
+.but5 {
+  height: 130px;
+  width: 130px;
+}
+
+.but6 {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
